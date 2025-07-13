@@ -2,11 +2,6 @@
 Joomla Credentials Scanner Databases/Smtps 
 Usage: python joom-creds.py
 
-                     __
-  | _  _ __  |  _    /   __ _  _| _ __ _|_ o  _  |  _    (_  _  _ __ __  _  __
-\_|(_)(_)||| | (_|   \__ | (/_(_|(/_| | |_ | (_| | _>    __)(_ (_|| || |(/_ |
-
-
 
 Started at: 
 
